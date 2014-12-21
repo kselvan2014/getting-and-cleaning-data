@@ -59,15 +59,20 @@ Note: final_subset is the resuting data set.
 
 (16) Displays the following in the end of the execution of the script:
 
-Hello,
+"Hello,
+
 'final_subset' contains:
+
   1. Merged training and the test sets
+  
   2. Only the measurements on the mean and standard deviation for each measurement
+  
   3. Descriptive activity names to name the activities in the data set
+  
   4. Appropriate labels with descriptive variable names
     
 'tidy_ds' is the second, independent tidy data set with the average of each variable 
-for each activity and each subject.
+for each activity and each subject."
 
 
 
